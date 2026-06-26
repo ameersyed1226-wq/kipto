@@ -1,0 +1,6 @@
+{
+  "name": "KIPTO",
+  "description": "Transforming Ideas into Digital Experiences. Professional web & mobile apps, UI/UX, AI promotions, and portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
